@@ -1,11 +1,11 @@
-name: abacas
+name: abacas2
 description: contiguate draft genome assembly
 keywords:
   - genome
   - assembly
   - contiguate
 tools:
-  - abacas:
+  - abacas2:
       description: |
         ABACAS is intended to rapidly contiguate (align, order, orientate),
         visualize and design primers to close gaps on shotgun assembled
